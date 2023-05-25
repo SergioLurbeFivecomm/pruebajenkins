@@ -1,0 +1,108 @@
+2023-5-18 13:49:47 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:49:50 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:49:53 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:49:56 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:49:59 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:2 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:5 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:9 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:12 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:15 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:18 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:21 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:24 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:27 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:30 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:33 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:36 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:42 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:46 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:49 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:52 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:55 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:50:58 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:51:1 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:51:4 : Principal thread error
+[Errno 113] No route to host2023-5-18 13:51:7 : Principal thread error
+[Errno 113] No route to host2023-5-19 8:43:41 : Principal thread error
+timed out2023-5-19 8:43:46 : Principal thread error
+timed out2023-5-19 8:43:51 : Principal thread error
+timed out2023-5-19 8:43:56 : Principal thread error
+timed out2023-5-19 8:44:1 : Principal thread error
+timed out2023-5-19 8:44:6 : Principal thread error
+timed out2023-5-19 8:44:11 : Principal thread error
+timed out2023-5-19 8:44:16 : Principal thread error
+timed out2023-5-19 8:44:21 : Principal thread error
+timed out2023-5-19 8:44:26 : Principal thread error
+timed out2023-5-19 8:44:31 : Principal thread error
+timed out2023-5-19 8:44:36 : Principal thread error
+timed out2023-5-19 8:44:41 : Principal thread error
+timed out2023-5-19 8:44:46 : Principal thread error
+timed out2023-5-19 8:44:51 : Principal thread error
+timed out2023-5-19 8:44:56 : Principal thread error
+timed out2023-5-19 8:45:1 : Principal thread error
+timed out2023-5-19 8:45:6 : Principal thread error
+timed out2023-5-19 8:45:11 : Principal thread error
+timed out2023-5-19 8:45:16 : Principal thread error
+timed out2023-5-19 8:45:21 : Principal thread error
+timed out2023-5-19 8:45:26 : Principal thread error
+timed out2023-5-19 8:45:31 : Principal thread error
+timed out2023-5-19 8:45:36 : Principal thread error
+timed out2023-5-19 8:45:41 : Principal thread error
+timed out2023-5-19 8:45:46 : Principal thread error
+timed out2023-5-19 8:45:51 : Principal thread error
+timed out2023-5-19 8:45:56 : Principal thread error
+timed out2023-5-19 8:46:1 : Principal thread error
+timed out2023-5-19 8:46:6 : Principal thread error
+timed out2023-5-19 8:46:11 : Principal thread error
+timed out2023-5-19 8:46:16 : Principal thread error
+timed out2023-5-19 8:46:21 : Principal thread error
+timed out2023-5-19 8:46:26 : Principal thread error
+timed out2023-5-19 8:46:31 : Principal thread error
+timed out2023-5-19 8:46:36 : Principal thread error
+timed out2023-5-19 8:46:41 : Principal thread error
+timed out2023-5-19 8:46:46 : Principal thread error
+timed out2023-5-19 8:46:51 : Principal thread error
+timed out2023-5-19 8:46:56 : Principal thread error
+timed out2023-5-19 8:47:1 : Principal thread error
+timed out2023-5-19 8:47:6 : Principal thread error
+timed out2023-5-19 8:47:11 : Principal thread error
+timed out2023-5-19 8:47:16 : Principal thread error
+timed out2023-5-19 8:47:21 : Principal thread error
+timed out2023-5-19 8:47:26 : Principal thread error
+timed out2023-5-19 8:47:31 : Principal thread error
+timed out2023-5-19 8:47:36 : Principal thread error
+timed out2023-5-19 8:47:41 : Principal thread error
+timed out2023-5-19 8:47:46 : Principal thread error
+timed out2023-5-19 8:47:51 : Principal thread error
+timed out2023-5-19 8:47:56 : Principal thread error
+timed out2023-5-19 8:48:1 : Principal thread error
+timed out2023-5-19 8:48:6 : Principal thread error
+timed out2023-5-19 8:48:11 : Principal thread error
+timed out2023-5-19 8:48:16 : Principal thread error
+timed out2023-5-19 8:48:21 : Principal thread error
+timed out2023-5-19 8:48:26 : Principal thread error
+timed out2023-5-19 8:48:31 : Principal thread error
+timed out2023-5-19 8:48:36 : Principal thread error
+timed out2023-5-19 8:48:41 : Principal thread error
+timed out2023-5-19 8:48:46 : Principal thread error
+timed out2023-5-19 8:48:51 : Principal thread error
+timed out2023-5-19 8:48:56 : Principal thread error
+timed out2023-5-19 8:49:1 : Principal thread error
+timed out2023-5-19 8:49:6 : Principal thread error
+timed out2023-5-19 8:49:11 : Principal thread error
+timed out2023-5-19 8:49:16 : Principal thread error
+timed out2023-5-19 8:49:21 : Principal thread error
+timed out2023-5-19 8:49:26 : Principal thread error
+timed out2023-5-19 8:49:31 : Principal thread error
+timed out2023-5-19 8:49:36 : Principal thread error
+timed out2023-5-19 9:2:24 : Principal thread error
+timed out2023-5-19 9:2:29 : Principal thread error
+timed out2023-5-19 9:2:34 : Principal thread error
+timed out2023-5-19 9:9:45 : Principal thread error
+'list' object has no attribute 'split'2023-5-19 9:12:18 : Principal thread error
+invalid literal for int() with base 10: 'fdsf'2023-5-19 9:13:37 : Principal thread error
+getWhiteList() missing 1 required positional argument: 'imei'2023-5-19 9:14:21 : Principal thread error
+getWhiteList() missing 1 required positional argument: 'imei'2023-5-19 9:15:31 : Principal thread error
+getWhiteListBySn() missing 1 required positional argument: 'sn'2023-5-19 9:18:21 : Principal thread error
+getWhiteListBySn() missing 1 required positional argument: 'sn'2023-5-24 13:51:11 : Error obtaining data
